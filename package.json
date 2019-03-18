@@ -1,0 +1,17 @@
+{
+  "name": "LZ",
+  "version": "1.0.0",
+  "description": "",
+  "main": "echarts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bmap": "^1.0.1",
+    "echarts": "^4.1.0",
+    "jquery": "^3.3.1"
+  }
+}
